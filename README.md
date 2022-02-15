@@ -1,6 +1,9 @@
 # TP_TEMA4
+
 #Ejercicios Tema 4
+
 ##Ejercicios
+
 ###1. La nota media (versión 1)
 Este algoritmo calcula la media de valores (por ejemplo, de las notas), introducidos por el usuario. En primer lugar, el usuario indica el número de valores cuyo promedio desea conocer. Seguidamente, introduce todos estos valores. Finalmente, se muestra la media de estos valores.
 
