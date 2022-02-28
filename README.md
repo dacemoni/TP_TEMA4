@@ -1,5 +1,9 @@
 # TP_TEMA4
 
+Realizado por: David César Moro Nieto 
+
+Ejercicios Tema 4 resueltos en: https://github.com/dacemoni/TP_TEMA4
+
 #Ejercicios Tema 4
 
 ##Ejercicios
