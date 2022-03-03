@@ -68,18 +68,18 @@ public class Main {
 
 	private static void menu() {
 		System.out.println("\nElija una de las siguiente opciones: ");
-		System.out.println("1. La nota media (versión 1)");
-		System.out.println("2. La nota media (versión 2)");
-		System.out.println("3. La nota media (versión 3)");
-		System.out.println("4. Adivine en qué número estoy pensando");
-		System.out.println("5. Ahora tengo que encontrarlo yo");
-		System.out.println("6. ¿Qué hace este algoritmo?");
-		System.out.println("7. Visualización de citas de películas (versión 1)");
-		System.out.println("8. Visualización de citas de películas (versión 2)");
-		System.out.println("9. Escribir un múltiplo de tres");
-		System.out.println("10. Arte ASCII 1");
-		System.out.println("11. Arte ASCII 2");
-		System.out.println("12. Salir.\n");
+		System.out.println("1 - La nota media (versión 1)");
+		System.out.println("2 - La nota media (versión 2)");
+		System.out.println("3 - La nota media (versión 3)");
+		System.out.println("4 - Adivine en qué número estoy pensando");
+		System.out.println("5 - Ahora tengo que encontrarlo yo");
+		System.out.println("6 - ¿Qué hace este algoritmo?");
+		System.out.println("7 - Visualización de citas de películas (versión 1)");
+		System.out.println("8 - Visualización de citas de películas (versión 2)");
+		System.out.println("9 - Escribir un múltiplo de tres");
+		System.out.println("10 - Arte ASCII 1");
+		System.out.println("11 - Arte ASCII 2");
+		System.out.println("12 - Salir.\n");
 	}
 
 }
